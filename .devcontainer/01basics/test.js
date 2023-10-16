@@ -1,1 +1,1 @@
-console.log("Tarun joshi")
+console.log("Tarun joshi")//screen output kr do 
