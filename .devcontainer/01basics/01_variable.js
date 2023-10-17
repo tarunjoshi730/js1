@@ -19,4 +19,13 @@ accountCity ="jaipur"
 
  //we use a table method jisse console na likhna pdde baar baar
 
- console.table([accountEmail, accountPassword, accountCity , accountState])
+ console.table([accountId,accountEmail, accountPassword, accountCity , accountState])
+
+
+ /* variables is declared in 2 way 
+1. var
+2. let
+
+In past era js isnt used the scope method and block  method
+
+ */
